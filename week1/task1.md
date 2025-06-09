@@ -60,4 +60,5 @@ Here we just had to create a basic html file consisting of a list of hobbies, a 
     </head>
 </html>
 ```
+![My Picture](task1/task1output.jpg)
 
