@@ -158,4 +158,4 @@ h6{
     position:center;}
 ```
 # OUTPUT
-
+![output](task3output.jpg)
