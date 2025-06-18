@@ -25,7 +25,8 @@
         <h2 class="text-2xl font-semibold mb-4">Card Two</h2>
         <p class="text-lg text-gray-700">This is the second card with larger text and spacing.</p>
       </div>
-
+```
+![my]{tailwind.png)
     </div>
   </main>
 
