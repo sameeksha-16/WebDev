@@ -70,3 +70,4 @@
 body{background-color: #A7C1A8;
 }
 ```
+![My Picture](flex.png)
